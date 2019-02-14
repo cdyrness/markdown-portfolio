@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Cindy has lots of experience with **technical writing** and **project management**. She plays *well* with others.
