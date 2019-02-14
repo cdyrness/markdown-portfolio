@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Loves walking in the desert :heart:.
+2. Enjoys reading books, especially:
+    * Science fiction
+    * Baking
